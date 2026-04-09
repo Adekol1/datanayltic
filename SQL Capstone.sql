@@ -1,3 +1,5 @@
+
+
 -- 1. List all suppliers in the UK
 SELECT *
 FROM Supplier
